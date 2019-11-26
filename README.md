@@ -1,19 +1,14 @@
-# Title
-## Author
+# Cat Facts 
+## Eliza Sohn & Angela Weber
 
 ### Description
-#### This website will...:
-
-
-## GitHub Pages link
-
-  [Visit (site))](link)
+#### This website will generate a random cat fact upon clicking the button. 
 
 ### Known Bugs
 #### None
 
 ### Setup
-#### Clone this repository:
+#### Click button and enjoy random cat fact!
 
 #### Please let me know if you have any problems!
 
@@ -23,10 +18,11 @@
 * Bootstrap
 * JavaScript
 * jQuery
+* APIs
 
-### Further Exploration
+
 
 ### License
 #### This software is licensed under the MIT license.
 
-#### Copyright (c) 2019
+#### Copyright Eliza Sohn and Angela Weber (c) 2019
